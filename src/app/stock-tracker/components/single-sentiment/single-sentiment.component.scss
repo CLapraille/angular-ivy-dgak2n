@@ -1,0 +1,42 @@
+.sentiment-box{
+    width: 50%;
+    margin: 20px;    
+
+    .marketMove{
+        font-size: 50px;
+        width: 50px;
+        height: 50px;
+        font-weight: bold;        
+    }
+
+    .red-icon {
+        color: red;
+    }
+    .green-icon {
+        color: green;
+    }
+}
+
+
+
+td{
+    padding: 5px;
+    border-style: solid 1px black;
+}
+
+td.rowTitle{
+    font-weight: bold;
+}
+
+th{
+    width: 50px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    background-color: steelblue;
+    color: white;
+}
+
+table{
+    width: 200px;
+}
